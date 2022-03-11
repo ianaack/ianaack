@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **The University of Toronto Web Development Bootcamp**
 
-- 👨‍💻 All of my projects are available at [https://ianaack.github.com/portfolio](https://ianaack.github.com/portfolio)
+- 👨‍💻 All of my projects are available at [https://ianaack.github.io/portfolio](https://ianaack.github.io/portfolio)
 
 - 💬 Ask me about **Film and Television Production!**
 
