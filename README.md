@@ -34,6 +34,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ianaack&" alt="ianaack" /></p>
 
+<a href="https://app.daily.dev/ianaack"><img src="https://api.daily.dev/devcards/b7f6362310ba4422a7da0c8b8cb87f57.png?r=fxo" width="400" alt="Ian Ackerman's Dev Card"/></a>
+
 <!---
 ianaack/ianaack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
