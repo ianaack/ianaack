@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ianaack" target="blank"><img src="https://img.shields.io/twitter/follow/ianaack?logo=twitter&style=for-the-badge" alt="ianaack" /></a> </p>
 
-- 🌱 I’m currently learning **Python!**
+- 🌱 I’m currently learning **React!**
 
 - 👨‍💻 All of my projects are available at [https://ianaack-portfolio.herokuapp.com/](https://ianaack-portfolio.herokuapp.com/)
 
