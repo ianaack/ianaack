@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React!**
 
-- 👨‍💻 All of my projects are available at [https://ianaack-portfolio.herokuapp.com/](https://ianaack-portfolio.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://ianaack.github.io/ianaack-portfolio/](https://ianaack.github.io/ianaack-portfolio/)
 
 - 💬 Ask me about **Film and Television Production!**
 
