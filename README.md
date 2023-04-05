@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently teaching students about the **MERN STACK!**
 
-- 👨‍💻 View my portfolio at [https://ianaack.github.io/ianaack-portfolio/](https://ianaack.github.io/ianaack-portfolio/)
+- 👨‍💻 View my portfolio [here](https://ianackerman.com)
 
 - 💬 Ask me about **Film and Television Production!**
 
