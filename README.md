@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ian Ackerman</h1>
-<h3 align="center">An ever-growing junior full-stack developer located in Toronto.</h3>
+<h3 align="center">An ever-growing full-stack developer located in Toronto.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ianaack" alt="Ian's github trophies" /></a> </p>
 
-- 🌱 I’m currently teaching students about the **MERN STACK!**
+- 🌱 I’m currently a Courseware Developer for **D2L!**
 
 - 👨‍💻 View my portfolio [here](https://ianackerman.com)
 
